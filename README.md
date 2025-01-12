@@ -3,7 +3,7 @@
 <h1>Hello World! Coding like it's a cricket match—every bug is a wicket!🏏</h1>
 
 🔧 Currently building my own portfolio website <br>
-🎓 Graduated from SZABIST Hyderabad as a software engineer <br>
+🎓 Graduated from SZABIST as a software engineer <br>
 👨🏼‍💻 Working as a MERN developer since 2023 <br>
 ⚛️  Just started to learn React Native
 
