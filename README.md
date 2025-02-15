@@ -1,6 +1,6 @@
 ![MasterHead](https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif)
 
-<h1>Hello World! Coding like it's a cricket match—every bug is a wicket!🏏</h1>
+<h1>Hello World! Coding like it's a cricket match — every bug is a wicket!🏏</h1>
 
 🔧 Currently building my own portfolio website <br>
 🎓 Graduated from SZABIST as a software engineer <br>
