@@ -4,8 +4,7 @@
 
 🔧 Currently building my own portfolio website <br>
 🎓 Graduated from SZABIST as a software engineer <br>
-👨🏼‍💻 Working as a MERN developer since 2023 <br>
-⚛️  Just started to learn React Native
+👨🏼‍💻 Working as a Software Developer since 2023 <br>
 
 ## 🖥️ Tech Stack:
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
